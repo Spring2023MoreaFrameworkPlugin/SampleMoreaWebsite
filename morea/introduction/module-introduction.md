@@ -15,7 +15,7 @@ morea_icon_url: /morea/introduction/database.png
 morea_start_date: "2023-01-13"
 morea_end_date: "2023-01-31T23:00"
 morea_labels:
-morea_sort_order: 10
+morea_sort_order: 9
 ---
 
 This is a Interpretation of  ICS 321
