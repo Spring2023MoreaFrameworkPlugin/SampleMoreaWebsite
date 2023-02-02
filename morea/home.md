@@ -18,10 +18,6 @@ This course is intended for undergraduates in computer science or computer engin
 
 ICS 321 follows the [textbook](https://learn.zybooks.com/zybook/HAWAIIICS321HalversonSpring2023) which provides participation activities, challenge activities, and zyLab lab assignments.  **You must use the same first and last name you used to register for this course**
 
-  * [Prerequisites](/prerequisites), describing skills you should have prior to starting the module.
-  * [Learning outcomes](/outcomes), describing the major goals for the module.
-  * [Readings and other online resources](/readings), providing background material.
-  * [Assessments](/assessments), which help you determine if you have acquired mastery of the material.
 
 ## About the instructor
 
